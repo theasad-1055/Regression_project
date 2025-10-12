@@ -1,7 +1,7 @@
 # Regression_project
 
 <br>
-Simple Linear Regression Project
+<h3>Simple Linear Regression Project</h3>
 <br>
 This project is based on a simple linear regression model using the placement.csv dataset.
 The dataset has around 200 records and contains no missing values.
